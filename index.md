@@ -1,6 +1,6 @@
 ---
 ---
-## Welcome to my Repository
+## Welcome to my Page
 
 Below you may find a variety of my projects to peruse.
 - My First Repository 
@@ -17,13 +17,15 @@ At night, a student of business analytics at William and Mary.
 
 [My LinkedIn](https://www.linkedin.com/in/tj-cahill-3b7302179/)
 
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 Oh, I also like to travel...
 
-![My Pic](/pics/IMG_6896.JPG)
+![Lake Helen](/pics/IMG_6896.JPG)
 [Alberta, Canada](https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
 
