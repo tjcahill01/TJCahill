@@ -10,9 +10,9 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 
 Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
-
+<p align="left">
 At night, a student of business analytics at William and Mary. 
-
+<p>
 
 [My LinkedIn](www.linkedin.com)
 
@@ -20,11 +20,11 @@ At night, a student of business analytics at William and Mary.
 Oh, I also like to travel...
 
 ![My Pic](/pics/IMG_6896.JPG)
-[_Lake Helen_](https://goo.gl/maps/NBE9uhN3whaPzVR17)
-
-<p align="center">
-  <img width="460" height="300" src="/pics/IMG_6896.JPG">
+<p align="left">
+  [_Lake Helen_](https://goo.gl/maps/NBE9uhN3whaPzVR17)
 </p>
+
+
 
 # Header 1
 ## Header 2
