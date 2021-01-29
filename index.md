@@ -5,13 +5,13 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 
 ### A Little About Me: TJ Cahill
-```markdown
-![My Pic] (tjcahill01.github.io/profile.png) Day job: CEO of . 
+
+![My Pic] (tjcahill01.github.io/profile.png) Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 At night, a student of business analytics at William and Mary. 
 
-```
+
 [My LinkedIn](www.linkedin.com)
-[Cavalier CPS](https://www.cavaliercps.com/)
+
 
 # Header 1
 ## Header 2
@@ -26,8 +26,8 @@ At night, a student of business analytics at William and Mary.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and (src)
-
-
+```markdown
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
