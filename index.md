@@ -8,13 +8,15 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 ### A Little About Me: TJ Cahill
 
-![My Pic](/pics/) Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
+'''markdown
+Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
 
 At night, a student of business analytics at William and Mary. 
-
+'''
 
 [My LinkedIn](www.linkedin.com)
 
+![My Pic](/pics/IMG_6896.JPG) 
 
 # Header 1
 ## Header 2
