@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 ### A Little About Me
 ```markdown
-![My Pic] (profile.png) Day job: CEO of [Cavalier CPS]
+![My Pic] (main/profile.png) Day job: CEO of [Cavalier CPS]
 (https://cavaliercps.com). 
 At night, a student of business analytics at William and Mary. 
 
