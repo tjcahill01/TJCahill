@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 
 ### A Little About Me
-
+```markdown
 ![My Pic] (profile.png)Day job: CEO of Cavalier CPS. At night, a student of business analytics at William and Mary. 
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and (src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
