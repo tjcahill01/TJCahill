@@ -19,10 +19,7 @@ At night, a student of business analytics at William and Mary.
 
 Oh, I also like to travel...
 
-![My Pic](/pics/IMG_6896.JPG)
-<p align="left">
-  [_Lake Helen_](https://goo.gl/maps/NBE9uhN3whaPzVR17)
-</p>
+![My Pic](/pics/IMG_6896.JPG,https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
 
 
