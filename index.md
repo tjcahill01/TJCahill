@@ -2,8 +2,9 @@
 ---
 ## Welcome to my Repository
 
-You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
+Below you may find a variety of my projects to peruse.
+- My First Repository 
+- Graph Examples (jupyter/html)
 
 
 ### A Little About Me: TJ Cahill
@@ -15,9 +16,9 @@ At night, a student of business analytics at William and Mary.
 
 [My LinkedIn](https://www.linkedin.com/in/tj-cahill-3b7302179/)
 
-\n
-\n
-\n
+
+
+
 
 Oh, I also like to travel...
 
