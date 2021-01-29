@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 At night, a student of business analytics at William and Mary. 
 
 ```
-Syntax highlighted code block
+[My LinkIn](www.linkedin.com)
 
 # Header 1
 ## Header 2
