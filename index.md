@@ -10,11 +10,15 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 
 Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
-<p style="text-align: center;">
+
 At night, a student of business analytics at William and Mary. 
-<p>
+
+
 
 [My LinkedIn](www.linkedin.com)
+
+
+
 
 
 Oh, I also like to travel...
