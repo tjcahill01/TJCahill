@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the Repository of TJ Cahill
 
 You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A Little About Me
+
+![My Pic] (C:\Users\serve\OneDrive\Pictures\profile.png)Day job: CEO of Cavalier CPS. At night, a student of business analytics at William and Mary. 
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and (src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
