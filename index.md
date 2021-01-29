@@ -1,10 +1,10 @@
-## Welcome to the Repository of TJ Cahill
+## Welcome my Repository
 
 You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 
-### A Little About Me
+### A Little About Me: TJ Cahill
 ```markdown
 ![My Pic] (main/profile.png) Day job: CEO of [Cavalier CPS](https://cavaliercps.com). 
 At night, a student of business analytics at William and Mary. 
