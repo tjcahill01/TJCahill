@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 
 Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
-<p align="left">
+<p style="text-align: center;">
 At night, a student of business analytics at William and Mary. 
 <p>
 
@@ -19,7 +19,7 @@ At night, a student of business analytics at William and Mary.
 
 Oh, I also like to travel...
 
-![My Pic](/pics/IMG_6896.JPG,https://goo.gl/maps/NBE9uhN3whaPzVR17)
+![My Pic](/pics/IMG_6896.JPG)(https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
 
 
