@@ -22,7 +22,8 @@ At night, a student of business analytics at William and Mary.
 
 Oh, I also like to travel...
 
-![My Pic](/pics/IMG_6896.JPG)(https://goo.gl/maps/NBE9uhN3whaPzVR17)
+![My Pic](/pics/IMG_6896.JPG)
+[Alberta, Canada](https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
 
 
