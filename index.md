@@ -22,6 +22,10 @@ Oh, I also like to travel...
 ![My Pic](/pics/IMG_6896.JPG)
 [_Lake Helen_](https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
+<p align="center">
+  <img width="460" height="300" src="/pics/IMG_6896.JPG">
+</p>
+
 # Header 1
 ## Header 2
 ### Header 3
