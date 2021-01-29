@@ -6,11 +6,11 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 ### A Little About Me: TJ Cahill
 ```markdown
-![My Pic] (main/profile.png) Day job: CEO of [Cavalier CPS](https://cavaliercps.com). 
+![My Pic] (main/profile.png) Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 At night, a student of business analytics at William and Mary. 
 
 ```
-[My LinkIn](www.linkedin.com)
+[My LinkedIn](www.linkedin.com)
 
 # Header 1
 ## Header 2
