@@ -9,17 +9,15 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 ### A Little About Me: TJ Cahill
 
 
-Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
+Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 
 At night, a student of business analytics at William and Mary. 
 
+[My LinkedIn](https://www.linkedin.com/in/tj-cahill-3b7302179/)
 
-
-[My LinkedIn](www.linkedin.com)
-
-
-
-
+\n
+\n
+\n
 
 Oh, I also like to travel...
 
