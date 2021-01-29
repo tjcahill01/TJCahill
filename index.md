@@ -16,6 +16,8 @@ At night, a student of business analytics at William and Mary.
 
 [My LinkedIn](www.linkedin.com)
 
+
+Oh, I also like to travel and hike...
 ![My Pic](/pics/IMG_6896.JPG) 
 
 # Header 1
