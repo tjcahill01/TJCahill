@@ -8,11 +8,11 @@ You can use the [editor on GitHub](https://github.com/tjcahill01/tjcahill01.gith
 
 ### A Little About Me: TJ Cahill
 
-```markdown
+
 Day job: CEO of [Cavalier CPS](#https://www.cavaliercps.com/). 
 
 At night, a student of business analytics at William and Mary. 
-```
+
 
 [My LinkedIn](www.linkedin.com)
 
