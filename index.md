@@ -11,7 +11,7 @@ Below you may find a variety of my projects to peruse.
 <br />
 
 ### A Little About Me: TJ Cahill
-[Work.](https://www.cavaliercps.com/) [Studies.](https://online.mason.wm.edu/msba) Sports. [Travel.](https://tjcahill01.github.io/travel/) 
+[Work.](https://www.cavaliercps.com/) [Studies.](https://online.mason.wm.edu/msba) Sports. [Travel.](https://tjcahill01.github.io/main/travel/) 
 
 Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 
