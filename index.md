@@ -11,7 +11,10 @@ Below you may find a variety of my projects to peruse.
 <br />
 
 ### A Little About Me: TJ Cahill
-
+Work. 
+        Studies. 
+                     Sports. 
+                                 Travel. 
 
 Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 
