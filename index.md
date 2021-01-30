@@ -14,9 +14,7 @@ Below you may find a variety of my projects to peruse.
 ### A Little About Me: TJ Cahill
 [Work.](https://www.cavaliercps.com/) [Studies.](https://online.mason.wm.edu/msba) Sports. [Travel.](/travel/) 
 
-Day job: CEO of [Cavalier CPS](https://www.cavaliercps.com/). 
 
-At night, a student of business analytics at William and Mary. 
 
 
 
@@ -26,10 +24,6 @@ At night, a student of business analytics at William and Mary.
 <br />
 <br />
 
-Oh, I also like to travel...
-
-![Lake Helen](/pics/IMG_6896.JPG)
-[Alberta, Canada](https://goo.gl/maps/NBE9uhN3whaPzVR17)
 
 <br />
 <br />
