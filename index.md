@@ -5,9 +5,8 @@ TJ Cahill
 
 Below you may find a variety of my projects to peruse.
 - [My Repository](https://github.com/tjcahill01) 
-- Graph Example 
-    - [jupyter](/M3Graphing.ipynb/)
-    - [html](/M3Graphing.html/)
+- [Construction Spending Data](/ConstructionGraph/)
+
 
 <br />
 
