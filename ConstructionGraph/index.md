@@ -8,7 +8,7 @@ Construction spending data for 2002 to 2014 can be graphed to examine. The data 
 - Basic Graph ([Jupyter](/M3Graphing.ipynb/)/[HTML](/M3Graphing.html/))
 
 ![graph](/pics/ConstructionSpendingGraph.JPG)
-![Lake Helen](/pics/IMG_6896.JPG)
+
 
 <br />
 <br />
