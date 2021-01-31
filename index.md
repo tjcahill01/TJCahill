@@ -1,6 +1,6 @@
 ---
 ---
-## Analytics by TJ
+## Analytics by TJ Cahill
 
 This site serves as a repository and place to feature various projects from my studies at [William and Mary](https://online.mason.wm.edu/msba) and (eventually) for [my company](https://www.cavaliercps.com/). Below you may find a variety of my projects to peruse.
 - [My Repository](https://github.com/tjcahill01) 
