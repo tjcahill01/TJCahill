@@ -9,9 +9,6 @@ This site serves as a repository and place to feature various projects either fr
 
 
 <br />
-
-### A Little About Me: TJ Cahill
-[Work.](https://www.cavaliercps.com/) [Studies.](https://online.mason.wm.edu/msba) Sports. [Travel.](/travel/) 
 <br />
 <br />
 <br />
