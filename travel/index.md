@@ -5,3 +5,7 @@ Whenever I have the chance, I enjoy traveling. Below is a photo from one of my t
 
 ![Lake Helen](/pics/IMG_6896.JPG)
 [Alberta, Canada](https://goo.gl/maps/NBE9uhN3whaPzVR17)
+< br/>
+< br/>
+< br/>
+[Return](/main/)
