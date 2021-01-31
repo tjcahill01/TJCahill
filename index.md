@@ -5,7 +5,7 @@ TJ Cahill
 
 Below you may find a variety of my projects to peruse.
 - [My Repository](https://github.com/tjcahill01) 
-- Graph Examples 
+- Construction Graph Example 
     - jupyter
     - html
 
